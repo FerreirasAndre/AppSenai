@@ -11,6 +11,16 @@ export default function App() {
       <StatusBar style="auto" />
 
       <ComponentFlavio/>
+      <ComponentFlavio/>
+<ComponentFlavio/>
+      <ComponentFlavio/>
+      <ComponentFlavio/>
+      <ComponentFlavio/>
+      <ComponentFlavio/>
+      <ComponentFlavio/>
+      <ComponentFlavio/>
+      <ComponentFlavio/>
+      <ComponentFlavio/>
       <ComponentRaquelResende/>
       <ComponentCarlosHenrique/>
       <Text>HELLO</Text>

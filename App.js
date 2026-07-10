@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import ComponentFlavio from './src/component/ComponentFlavio';
+import ComponentRaquelResende from './src/component/ComponentRaqueResende';
 
 export default function App() {
   return (
@@ -9,6 +10,7 @@ export default function App() {
       <StatusBar style="auto" />
 
       <ComponentFlavio></ComponentFlavio>
+      <ComponentRaquelResende/>
     </View>
   );
 }

@@ -11,6 +11,7 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <StatusBar style="auto" />
 
+
       <ScrollView>
         <ComponentFlavio />
         <ComponentFlavio />
@@ -41,7 +42,20 @@ export default function App() {
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
-
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
+        <Text>HELLO</Text>
       </ScrollView>
     </View>
   );

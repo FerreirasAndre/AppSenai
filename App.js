@@ -248,61 +248,6 @@ export default function App() {
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentRaquelResende />
-        <ComponentCarlosHenrique />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentRaquelResende />
-        <ComponentRaquelResende />
-        <ComponentRaquelResende />
-        <ComponentRaquelResende />
-        <ComponentRaquelResende />
-        <ComponentRaquelResende />
-        <ComponentRaquelResende />
-        <ComponentRaquelResende />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentFlavio />
-        <ComponentRaquelResende />
-        <ComponentCarlosHenrique />
         <Text>HELLO</Text>
       </ScrollView>
     </View>

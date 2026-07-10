@@ -13,6 +13,7 @@ export default function App() {
       <ComponentFlavio/>
       <ComponentRaquelResende/>
       <ComponentCarlosHenrique/>
+      <Text>HELLO</Text>
       
     </View>
   );

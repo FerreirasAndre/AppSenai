@@ -283,13 +283,7 @@ export default function App() {
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
-        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />       
         <ComponentFlavio />
         <ComponentFlavio />
         <ComponentFlavio />

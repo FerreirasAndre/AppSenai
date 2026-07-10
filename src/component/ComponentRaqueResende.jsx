@@ -7,7 +7,7 @@ export default function ComponentRaquelResende() {
     </View>
   );
 }
-const style = StyleSheet({
+const styles = StyleSheet({
     container:{
         Flex:1,
     }

@@ -24,11 +24,14 @@ export default function App() {
         • Despeje a água lentamente{"\n"}
         • Sirva e aproveite!{"\n"}
         • Bear
+<<<<<<< HEAD
 
         <Image 
         source={{uri:'https://img.magnific.com/fotos-gratis/urso-russian-bonito-que-anda-na-grama-verde-fundo-da-natureza_1220-1111.jpg?semt=ais_hybrid&w=740&q=80'}} 
         style={{ width: 200, height: 200 }} 
       />
+=======
+>>>>>>> a32f5991a68d5136c58295ed5829507b97f83dc2
       </Text>
 
 =======
@@ -321,6 +324,59 @@ export default function App() {
         <ComponentFlavio />
         <ComponentRaquelResende />
         <ComponentCarlosHenrique />
+<<<<<<< HEAD
+=======
+
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />       
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
+
+>>>>>>> a32f5991a68d5136c58295ed5829507b97f83dc2
         <Text>HELLO</Text>
       </ScrollView>
     </View>

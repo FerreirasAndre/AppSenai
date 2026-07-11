@@ -26,7 +26,7 @@ export default function App() {
         • Bear
       </Text>
 
-=======
+
       <ScrollView>
         <ComponentFlavio />
         <ComponentFlavio />

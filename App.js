@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Image } from 'react-native';
 import ComponentFlavio from './src/component/ComponentFlavio';
 import ComponentRaquelResende from './src/component/ComponentRaqueResende';
 import ComponentCarlosHenrique from './src/component/ComponentCarlosHenrique';
@@ -24,6 +24,11 @@ export default function App() {
         • Despeje a água lentamente{"\n"}
         • Sirva e aproveite!{"\n"}
         • Bear
+
+        <Image 
+        source={{uri:'https://img.magnific.com/fotos-gratis/urso-russian-bonito-que-anda-na-grama-verde-fundo-da-natureza_1220-1111.jpg?semt=ais_hybrid&w=740&q=80'}} 
+        style={{ width: 200, height: 200 }} 
+      />
       </Text>
 
 =======

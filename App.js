@@ -267,6 +267,58 @@ export default function App() {
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
+<<<<<<< HEAD
+=======
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />       
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
+>>>>>>> 540474b786fa523a54b95357440fbfcd39315792
         <Text>HELLO</Text>
       </ScrollView>
 >>>>>>> 4819542f358efcc00130cc4eae48a34bae85bf79

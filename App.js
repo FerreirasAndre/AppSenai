@@ -266,8 +266,6 @@ export default function App() {
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
-<<<<<<<<< Temporary merge branch 1
-=========
         <ComponentFlavio />
         <ComponentFlavio />
         <ComponentFlavio />
@@ -317,10 +315,8 @@ export default function App() {
         <ComponentFlavio />
         <ComponentRaquelResende />
         <ComponentCarlosHenrique />
->>>>>>>>> Temporary merge branch 2
         <Text>HELLO</Text>
       </ScrollView>
->>>>>>> 4819542f358efcc00130cc4eae48a34bae85bf79
     </View>
   );
 }

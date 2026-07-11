@@ -15,8 +15,8 @@ export default function App() {
       <ComponentRaquelResende />
       <ComponentCarlosHenrique />
 
-      <Text style={styles.receita}>
-        Receita de café:{"\n\n"}
+      <Text style={styles.receitaFederal}>
+        receitaFederal de café:{"\n\n"}
         • 200 ml de água{"\n"}
         • 2 colheres de pó de café{"\n"}
         • Ferva a água{"\n"}
@@ -330,7 +330,7 @@ const styles = StyleSheet.create({
     padding: 20,
   },
 
-  receita: {
+  receitaFederal: {
     fontSize: 16,
     color: '#333',
     backgroundColor: '#f5f5f5',

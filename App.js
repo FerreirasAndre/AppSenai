@@ -22,7 +22,8 @@ export default function App() {
         • Ferva a água{"\n"}
         • Coloque o pó no filtro{"\n"}
         • Despeje a água lentamente{"\n"}
-        • Sirva e aproveite!
+        • Sirva e aproveite!{"\n"}
+        • Bear
       </Text>
 
 =======

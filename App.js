@@ -8,7 +8,25 @@ import { ScrollView } from 'react-native-web';
 export default function App() {
   return (
     <View style={styles.container}>
+      <Text>Open up App.js to start working on your app!</Text>
+      <StatusBar style="auto" />
 
+      <ComponentFlavio />
+      <ComponentRaquelResende />
+      <ComponentCarlosHenrique />
+
+      <Text style={styles.receitaFederal}>
+        receitaFederal de café:{"\n\n"}
+        • 200 ml de água{"\n"}
+        • 2 colheres de pó de café{"\n"}
+        • Ferva a água{"\n"}
+        • Coloque o pó no filtro{"\n"}
+        • Despeje a água lentamente{"\n"}
+        • Sirva e aproveite!{"\n"}
+        • Bear
+      </Text>
+
+=======
       <ScrollView>
         <ComponentFlavio />
         <ComponentFlavio />
@@ -249,6 +267,55 @@ export default function App() {
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
         <ComponentCarlosHenrique />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />
+        <ComponentCarlosHenrique />       
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentFlavio />
+        <ComponentRaquelResende />
+        <ComponentCarlosHenrique />
 
         <ComponentFlavio />
         <ComponentFlavio />
@@ -315,7 +382,7 @@ const styles = StyleSheet.create({
     padding: 20,
   },
 
-  receita: {
+  receitaFederal: {
     fontSize: 16,
     color: '#333',
     backgroundColor: '#f5f5f5',

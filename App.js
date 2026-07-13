@@ -33,7 +33,7 @@ export default function App() {
       />
       </Text>
 
-=======
+
       <ScrollView>
         <ComponentFlavio />
         <ComponentFlavio />
